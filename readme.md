@@ -7,99 +7,123 @@ Sárosi Gyula fordításában, 1942
 
 Szerkesztette: Burucs Ádám, 2018
 
+1. Mi felett van irányításunk az életben?
+1. Az irányítás eldöntése vezet minket az életben
+1. Gondold át mivel vagy kivel van dolgod egy szituációban
+1. Minden cselekvés előtt gondold át mivel szokott járni
+1. Minden csak vélemény
+1. A büszkeségről
+1. Az élet szabja meg, hogy éppen hogy kell cselekednünk
+1. Alkalmazkodj a szituációkhoz
+1. A betegségről
+1. Mindenféle szituációban gyakorolhatjuk a kiválóságot
+1. Ha a sors ad valamit, azt el is veheti
+1. Fokozatosan gyakorolj mindenféle szituációban
+1. Az átlagember a külső dolgokra koncentrál, a bölcs a belsőkre
+1. A külső dolgok felett nincs irányításunk
+1. Légy türelmes és tartsd a mértéket
+1. Empatizálj másokkal, de kontrolláld azt belülről
+1. Az élet a nagy rendező
+1. A babona csak külső dolgokra hat
+1. Milyen versenyben érdemes részt venned?
+1. A sértések jellege
+1. Memento mori: emlékezz, hogy meg fogsz halni egy nap
+1. Életed legyen példa mások számára
+1. Magad miatt akarj kiváló lenni elsősorban (de ezzel jobbá teheted a világot is)
+
 ----------
 
-## I. Mi felett van irányításunk az életben?
+## 1. Mi felett van irányításunk az életben?
 
 Bizonyos dolgok hatalmunkban vannak, más dolgok nincsenek. Tőlünk függ a véleményünk, az ösztönös vágyunk, a törekvésünk és ellenszenvünk, egyszóval mindaz, amit egyedül alkotunk meg. Nem tőlünk függ a testünk, a vagyonunk, a hírnevünk és a tisztségeink, tehát mindaz, amit nem egyedül hoztunk létre.
 
 Ha csak azt tartod a tiednek, ami valóban a tied, a más tulajdonát pedig a helyzetnek megfelelően a másénak tartod, akkor sohasem leszel a kényszer hatalmában, senki sem fog utadba állni, nem fogsz senkit szidalmazni és vádolni, és semmit sem kell majd akaratod ellenére végrehajtanod; senki sem árt neked, és nem lesz ellenséged sem, mert nem történik veled semmi baj.
 
-## II. Az irányítás eldöntése vezet minket az életben
+## 2. Az irányítás eldöntése vezet minket az életben
 
 Ha csak olyan dolgokat kívánsz kikerülni, amelyek a hatalmadban vannak, s a természettel ellentétesek, sohasem fogsz nem kívánt dolgokba bonyolódni, de ha a betegséget, a halált és a szegénységet akarod kikerülni, akkor szerencsétlen leszel.
 
-## III. Gondold át mivel vagy kivel van dolgod egy szituációban
+## 3. Gondold át mivel vagy kivel van dolgod egy szituációban
 
 Emlékezz arra, hogy mindenről, ami gyönyörködtet, ami hasznos számodra, és amit szeretsz, a legjelentéktelenebb dolgoknál kezdve megmondd: miféle. Ha szeretsz egy tálat, mondd azt, hogy tálat szeretsz. Így, ha eltörik is, nem fogsz háborogni. Ha a gyermeked vagy a feleséged szereted, mondd azt, hogy csak egy embert szeretsz. Így, ha meghal, nem fogsz háborogni.
 
-## IV. Minden cselekvés előtt gondold át mivel szokott járni
+## 4. Minden cselekvés előtt gondold át mivel szokott járni
 
 Ha valamihez hozzá akarsz fogni, emlékeztesd magad arra, hogy milyen az a dolog. Ha fürödni mégy, vess számot magadban mindazzal, ami a fürdőben történni szokott: lefröcskölik, lökdösik, szidják és meglopják az embert. 
 
-## V. Minden csak vélemény
+## 5. Minden csak vélemény
 
 Nem a tények zavarják az embereket, hanem a tényekről alkotott vélemények.
 
-## VI. A büszkeségről
+## 6. A büszkeségről
 
 Soha ne büszkélkedj a más kiválóságával!
 
-## VII. Az élet szabja meg, hogy éppen hogy kell cselekednünk
+## 7. Az élet szabja meg, hogy éppen hogy kell cselekednünk
 
 Ha hív a kormányos, rohanj a hajóra és hagyj ott mindent anélkül, hogy visszanéznél. Öregkorodban pedig ne távozz el messzire a hajótól, hogy ott légy, bármikor hívnak.
 
-## VIII. Alkalmazkodj a szituációkhoz
+## 8. Alkalmazkodj a szituációkhoz
 
 Ne kívánd, hogy az események úgy alakuljanak, ahogy te szeretnéd. Inkább a kívánságaidat szabd hozzá az események alakulásához, meglátod, nyugodt lesz életed folytatása.
 
-## IX. A betegségről
+## 9. A betegségről
 
 A betegség csak a testet bénítja meg, a szabad elhatározást nem, ha az maga nem akarja.
 
-## X. Mindenféle szituációban gyakorolhatjuk a kiválóságot
+## 10. Mindenféle szituációban gyakorolhatjuk a kiválóságot
 
 Minden helyzetben emlékezz arra, hogy önmagad felé fordulj és megvizsgáld, milyen képességed van a helyzet megoldásához. Ha szép fiút vagy lányt pillantasz meg, megtalálod az önmegtartóztatást velük szemben. Ha fáradság vár rád, megtalálod a kitartást.
 
-## XI. Ha a sors ad valamit, azt el is veheti
+## 11. Ha a sors ad valamit, azt el is veheti
 
 Sohase mondd rá semmire, hogy "elvesztettem", hanem csak azt, hogy "visszaadtam". Meghalt a gyermeked? Visszaadtad. Elhunyt a feleséged? Visszaadtad. Elvették a birtokod? Visszaadtad azt is.
 
-## XII. Fokozatosan gyakorolj mindenféle szituációban
+## 12. Fokozatosan gyakorolj mindenféle szituációban
 
 Ha haladni akarsz a bölcsességben, akkor [...] Kezdd el ezt a legkisebb dolgoknál! Ha kiömlik az olajocskád, és ellopják a maradék borocskádat, arra gondolj, hogy ennyibe kerül a szenvedélytelen állapot, ennyibe a lelki nyugalom. Semmit sem adnak ingyen.
 
-## XIII. Az átlagember a külső dolgokra koncentrál, a bölcs a belsőkre
+## 13. Az átlagember a külső dolgokra koncentrál, a bölcs a belsőkre
 
 Ha haladni akarsz a bölcsességben, el kell viselned, hogy külsőséges dolgokban ügyetlennek és együgyűnek tartsanak. 
 
-## XIV. A külső dolgok felett nincs irányításunk
+## 14. A külső dolgok felett nincs irányításunk
 
 Aki szabad akar lenni, az ne akarjon és ne kerüljön olyasmit, aminek megszerzése és elhárítása másoktól függ. Ha nem így cselekszik, rabszolgának kell lennie.
 
-## XV. Légy türelmes és tartsd a mértéket
+## 15. Légy türelmes és tartsd a mértéket
 
 Emlékezz erre: az életben úgy kell viselkedni, mint a lakomán: körülhordoznak egy tálat, - éppen hozzád ér, - nyújtsd ki a kezed és szerényen vegyél belőle. Ha elmegy melletted, ne állítsd meg! Ha meg nem jön, ne fürkéssz utána sóvár tekintettel, hanem várj türelemmel, amíg hozzád ér!
 
-## XVI. Empatizálj másokkal, de kontrolláld azt belülről
+## 16. Empatizálj másokkal, de kontrolláld azt belülről
 
 Ha látod, hogy valaki jajgat gyászában, [...] ne vonakodj szavaiddal hozzá alkalmazkodni, sőt, ha az a helyzet, jajgass együtt vele, de vigyázz, hogy ne jajgass belülről is.
 
-## XVII. Az élet a nagy rendező
+## 17. Az élet a nagy rendező
 
 Emlékezz arra, hogy színész vagy egy olyan drámában, amilyet a betanítója akar: ha rövidre szabja a szereped, rövid ideig, ha hosszúra, sokáig játszol. Ha a koldus szerepét osztja rád, azt is a természethez hűen alakítsd.
 
-## XVIII. A babona csak külső dolgokra hat
+## 18. A babona csak külső dolgokra hat
 
 Ha a holló nem jót károg, ne ragadjon el a képzet, hanem nyomban tégy megkülönböztetést magadban és jegyezd meg: "[...] Nekem minden csak jót jelenthet, ha én úgy akarom: bármi is történik, tőlem függ, hogy javamra fordítom-e."
 
-## XIX. Milyen versenyben érdemes részt venned?
+## 19. Milyen versenyben érdemes részt venned?
 
 Győzhetetlen lehetsz, ha nem bocsátkozol olyan küzdelmekbe, amelyekben a győzelem nem tőled függ. Ehhez pedig csak egy út vezet: azoknak a dolgoknak a megvetése, amelyek nincsenek hatalmunkban.
 
-## XX. A sértések jellege
+## 20. A sértések jellege
 
 Emlékezz arra, hogy nem az bántalmaz téged, aki szidalmaz és megüt, hanem csak az a hiedelmed, hogy bántanak. Ha tehát valaki ingerel, tudd meg, csak a saját vélekedésed ingerel. Ezért mindenekelőtt arra törekedj, hogy a képzet ne ragadjon el, mert könnyebben tudsz uralkodni magadon, ha egyszer időd van és foglalkozol magaddal.
 
-## XXI. Memento mori: emlékezz, hogy meg fogsz halni egy nap
+## 21. Memento mori: emlékezz, hogy meg fogsz halni egy nap
 
 A halál, a száműzetés és minden a világon, ami irtózatosnak látszik, mindennap szemeid előtt lebegjen! Leginkább azonban a halál. Sohasem fogsz akkor közönséges dolgokra gondolni, és nem is fogsz túlságosan vágyakozni valamire.
 
-## XXII. Életed legyen példa mások számára
+## 22. Életed legyen példa mások számára
 
 Ha kitartasz elveid mellett, azok, akik előbb kinevettek, bámulóid lesznek, de ha hatásuk alatt megtántorodsz, kétszeres gúny lesz a jutalmad.
 
-## XXIII. Magad miatt akarj kiváló lenni elsősorban (de ezzel jobbá teheted a világot is)
+## 23. Magad miatt akarj kiváló lenni elsősorban (de ezzel jobbá teheted a világot is)
 
 Ha valaha megtörténik, hogy kifelé fordulsz azért, hogy bárkinek a tetszését megnyerd, tudd meg, hogy belső egyensúlyod összeomlik. Érd be tökéletesen azzal, hogy filozófus vagy. Ha mindenképpen látszani is akarsz filozófusnak, akkor a saját szemedben mutatkozz annak, s arra elég is leszel.
 
