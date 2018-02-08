@@ -39,6 +39,9 @@ Szerkesztette: Burucs Ádám, 2018
 1. Az emberi viszonyok és kötelezettségek
 1. Örömmel alkalmazkodj mindenhez, amit eléd vet az élet
 1. A jóslat jellege
+1. Mindennapi etikai szabályok
+1. Az élvezetek jellege
+1. A helyes cselekvésről
 
 ----------
 
@@ -172,7 +175,7 @@ A jámborságot illetően az istenekkel szemben - tudnod kell - az a legfontosab
 
 Ha jóslathoz fordulsz, ne felejtsd el, hogy te nem tudod, hogy mi fog történni, és azért jöttél a jóshoz, hogy tőle kérdezd meg. Azt azonban, hogy milyen lesz, már érkezésedkor is tudod, ha filozófus vagy: ha olyasvalami, ami nincsen hatalmunkban, akkor bizonyos, hogy se nem jó, se nem rossz.
 
-## XXXIII. Mindennapi etikai szabályok
+## 33. Mindennapi etikai szabályok
 
 Tűzz magad elé egy jellemet és mintaképet, és tartsd magad hozzá, akár egyedül vagy, akár az emberek között.
 
@@ -206,11 +209,11 @@ Ne igyekezz nevetést kelteni, mert az ilyen viselkedés közönséges modorra �
 
 Ocsmány beszélgetésekbe bocsátkozni is veszélyes. Ha előfordul veled ilyesmi, ha a körülmények engedik, utasítsd rendre, aki túlment a mértéken; ha nem lehet, akkor hallgatással, elpirulással vagy kedvetlen arckifejezéssel nyilvánítsd ki, hogy nincs ínyedre a beszélgetés.
 
-## XXXIV. Az élvezetek jellege
+## 34. Az élvezetek jellege
 
 Ha valamilyen élvezetnek a képzete megragadott, akkor vigyáznod kell, mint a többi dolgokban is, hogy magával ne rántson: hadd várjon az ügy, halaszd el későbbre.
 
-## XXXV. A helyes cselekvésről
+## 35. A helyes cselekvésről
 
 Ha belátod, hogy valamit meg kell tenned, tedd meg és ne kerüld azt, hogy cselekvés közben lássanak, még akkor sem, ha a tömeg egészen más véleményt alkot majd az ügyről. Ha ugyanis nem helyesen cselekednél, akkor magát a tettet kerüld el; de ha helyesen teszel, akkor mit félsz az igazságtalan támadásoktól?
 
