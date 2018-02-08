@@ -30,6 +30,10 @@ Szerkesztette: Burucs Ádám, 2018
 1. Memento mori: emlékezz, hogy meg fogsz halni egy nap
 1. Életed legyen példa mások számára
 1. Magad miatt akarj kiváló lenni elsősorban (de ezzel jobbá teheted a világot is)
+1. A kapcsolatépítés jellege és a kiválóság szerepe
+1. Ha nem építesz kapcsolatokat, ne várd az eredményét a semmiért cserébe
+1. Várd nyugalommal a váratlant is
+1. A hibás és rossz cselekvések jellege
 
 ----------
 
@@ -127,19 +131,19 @@ Ha kitartasz elveid mellett, azok, akik előbb kinevettek, bámulóid lesznek, d
 
 Ha valaha megtörténik, hogy kifelé fordulsz azért, hogy bárkinek a tetszését megnyerd, tudd meg, hogy belső egyensúlyod összeomlik. Érd be tökéletesen azzal, hogy filozófus vagy. Ha mindenképpen látszani is akarsz filozófusnak, akkor a saját szemedben mutatkozz annak, s arra elég is leszel.
 
-## XXIV. A kapcsolatépítés jellege és a kiválóság szerepe
+## 24. A kapcsolatépítés jellege és a kiválóság szerepe
 
 Tőled függ, hogy adnak-e neked hivatalokat, és meghívnak-e lakomákra? Semmiképpen. Hogyan lehet akkor ez a tény becstelenség jele? Hogyan volnál te semmirekellő, mikor csak azokban a dolgokban kell valakinek lenned, amelyek pusztán tőled függenek, és amelyekben a legmagasabb fokra emelkedhetsz.
 
-## XXV. Ha nem építesz kapcsolatokat, ne várd az eredményét a semmiért cserébe
+## 25. Ha nem építesz kapcsolatokat, ne várd az eredményét a semmiért cserébe
 
 Valakit nagyobb tiszteletben részesítenek nálad a lakomán, az üdvözlésben vagy azzal, hogy meghívták a tanácskozásba? Ha ez jó, akkor örülnöd kell, hogy annak osztályrészül jutott. Ha pedig baj, akkor ne panaszkodj, hogy téged nem sújtott. De emlékezz erre: nem tarthatsz igényt ugyanazokra a dolgokra, ha nem teszed is meg ugyanazt, hogy elérj olyasmit, ami nincs a hatalmunkban.
 
-## XXVI. Várd nyugalommal a váratlant is
+## 26. Várd nyugalommal a váratlant is
 
 Amikor például másnak a szolgája eltör egy poharat, kéznél van ez a mondás: "Ilyesmi előfordul". Tudd meg, hogy ugyanúgy kell eljárnod, amikor a tied törik el, mint amikor a másé. Ugyanezt az elvet terjeszd ki a nagyobb dolgokra is.
 
-## XXVII. A hibás és rossz cselekvések jellege
+## 27. A hibás és rossz cselekvések jellege
 
 Amint nincs cél azért, hogy elhibázzuk, éppúgy a rossznak sincs természetes alapja a világban.
 
