@@ -34,6 +34,11 @@ Szerkesztette: Burucs Ádám, 2018
 1. Ha nem építesz kapcsolatokat, ne várd az eredményét a semmiért cserébe
 1. Várd nyugalommal a váratlant is
 1. A hibás és rossz cselekvések jellege
+1. Őrizd meg nyugalmad minden szituációban
+1. Mindent vizsgálj meg mielőtt belekezdenél
+1. Az emberi viszonyok és kötelezettségek
+1. Örömmel alkalmazkodj mindenhez, amit eléd vet az élet
+1. A jóslat jellege
 
 ----------
 
@@ -147,23 +152,23 @@ Amikor például másnak a szolgája eltör egy poharat, kéznél van ez a mond�
 
 Amint nincs cél azért, hogy elhibázzuk, éppúgy a rossznak sincs természetes alapja a világban.
 
-## XXVIII. Őrizd meg nyugalmad minden szituációban
+## 28. Őrizd meg nyugalmad minden szituációban
 
 Ha a tested valaki odaadná annak, aki éppen szembejön, bizonyára rossz néven vennéd. Azért viszont nem szégyelled magad, hogy a józan eszed bárkinek odaadod azzal, hogy felindulsz és elveszíted nyugalmadat ha szidalmaz.
 
-## XXIX. Mindent vizsgálj meg mielőtt belekezdenél
+## 29. Mindent vizsgálj meg mielőtt belekezdenél
 
 Minden cselekedetnek vizsgáld meg az előzményeit és következményeit és csak azután kezdj hozzá. Ha nem így jársz el, akkor eleinte nagy kedvvel fogsz a dologhoz, mert nem gondoltad meg a következményeit. Később esetleg, mikor akadályokra bukkansz, szégyenszemre abba kell hagynod a munkát.
 
-## XXX. Az emberi viszonyok és kötelezettségek
+## 30. Az emberi viszonyok és kötelezettségek
 
 A kötelezettségeink általában a viszonyoktól függnek. [...] Meg fogod találni, hogy mi a jó szomszéd, a polgár és a hadvezér kötelessége, ha hozzászoksz a viszonyok figyelembevételéhez.
 
-## XXXI. Örömmel alkalmazkodj mindenhez, amit eléd vet az élet
+## 31. Örömmel alkalmazkodj mindenhez, amit eléd vet az élet
 
 A jámborságot illetően az istenekkel szemben - tudnod kell - az a legfontosabb, hogy helyes véleményt alkoss róluk: kétségtelenül léteznek és mindent szépen és igazságosan kormányoznak, neked pedig azt parancsolják, hogy engedelmeskedj nekik, nyugodj meg mindenben, ami történik, jó szívvel alkalmazkodj a helyzethez, mert a legjobb belátással intézik sorsunkat. Ha így jársz el, sohasem káromolod majd az isteneket, és nem panaszkodol, hogy nem törődnek veled.
 
-## XXXII. A jóslat jellege
+## 32. A jóslat jellege
 
 Ha jóslathoz fordulsz, ne felejtsd el, hogy te nem tudod, hogy mi fog történni, és azért jöttél a jóshoz, hogy tőle kérdezd meg. Azt azonban, hogy milyen lesz, már érkezésedkor is tudod, ha filozófus vagy: ha olyasvalami, ami nincsen hatalmunkban, akkor bizonyos, hogy se nem jó, se nem rossz.
 
