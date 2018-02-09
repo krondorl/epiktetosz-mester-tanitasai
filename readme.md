@@ -7,41 +7,63 @@ Sárosi Gyula fordításában, 1942
 
 Szerkesztette: Burucs Ádám, 2018
 
+## Bevezető
+
+Epiktétosz ókori görög Sztoikus filozófus volt. Filozófiájának középpontjában az etika állt. Az etikája szerint a filozófiát a gyakorlatban kell művelni, ami az életmódot jelenti. Minden gondolatunkat és cselekedetünket érdemes enek megfelelően irányítani. A legfontosabb kérdés, hogy van-e a dolgok felett irányításunk. Akár van, akár nincs, érdemes nyugodtnak maradni és erényesen viselkedni. A 4 fő erény: bölcsesség, bátorság, mértéktartás és igazság.
+
 1. Mi felett van irányításunk az életben?
-1. Az irányítás eldöntése vezet minket az életben
-1. Gondold át mivel vagy kivel van dolgod egy szituációban
-1. Minden cselekvés előtt gondold át mivel szokott járni
-1. Minden csak vélemény
-1. A büszkeségről
-1. Az élet szabja meg, hogy éppen hogy kell cselekednünk
-1. Alkalmazkodj a szituációkhoz
-1. A betegségről
-1. Mindenféle szituációban gyakorolhatjuk a kiválóságot
-1. Ha a sors ad valamit, azt el is veheti
-1. Fokozatosan gyakorolj mindenféle szituációban
-1. Az átlagember a külső dolgokra koncentrál, a bölcs a belsőkre
-1. A külső dolgok felett nincs irányításunk
-1. Légy türelmes és tartsd a mértéket
-1. Empatizálj másokkal, de kontrolláld azt belülről
-1. Az élet a nagy rendező
-1. A babona csak külső dolgokra hat
-1. Milyen versenyben érdemes részt venned?
-1. A sértések jellege
-1. Memento mori: emlékezz, hogy meg fogsz halni egy nap
-1. Életed legyen példa mások számára
-1. Magad miatt akarj kiváló lenni elsősorban (de ezzel jobbá teheted a világot is)
-1. A kapcsolatépítés jellege és a kiválóság szerepe
-1. Ha nem építesz kapcsolatokat, ne várd az eredményét a semmiért cserébe
-1. Várd nyugalommal a váratlant is
-1. A hibás és rossz cselekvések jellege
-1. Őrizd meg nyugalmad minden szituációban
-1. Mindent vizsgálj meg mielőtt belekezdenél
-1. Az emberi viszonyok és kötelezettségek
-1. Örömmel alkalmazkodj mindenhez, amit eléd vet az élet
-1. A jóslat jellege
-1. Mindennapi etikai szabályok
-1. Az élvezetek jellege
-1. A helyes cselekvésről
+2. Az irányítás eldöntése vezet minket az életben
+3. Gondold át mivel vagy kivel van dolgod egy szituációban
+4. Minden cselekvés előtt gondold át mivel szokott járni
+5. Minden csak vélemény
+6. A büszkeségről
+7. Az élet szabja meg, hogy éppen hogy kell cselekednünk
+8. Alkalmazkodj a szituációkhoz
+9. A betegségről
+10. Mindenféle szituációban gyakorolhatjuk a kiválóságot
+11. Ha a sors ad valamit, azt el is veheti
+12. Fokozatosan gyakorolj mindenféle szituációban
+13. Az átlagember a külső dolgokra koncentrál, a bölcs a belsőkre
+14. A külső dolgok felett nincs irányításunk
+15. Légy türelmes és tartsd a mértéket
+16. Empatizálj másokkal, de kontrolláld azt belülről
+17. Az élet a nagy rendező
+18. A babona csak külső dolgokra hat
+19. Milyen versenyben érdemes részt venned?
+20. A sértések jellege
+21. Memento mori: emlékezz, hogy meg fogsz halni egy nap
+22. Életed legyen példa mások számára
+23. Magad miatt akarj kiváló lenni elsősorban (de ezzel jobbá teheted a világot is)
+24. A kapcsolatépítés jellege és a kiválóság szerepe
+25. Ha nem építesz kapcsolatokat, ne várd az eredményét a semmiért cserébe
+26. Várd nyugalommal a váratlant is
+27. A hibás és rossz cselekvések jellege
+28. Őrizd meg nyugalmad minden szituációban
+29. Mindent vizsgálj meg mielőtt belekezdenél
+30. Az emberi viszonyok és kötelezettségek
+31. Örömmel alkalmazkodj mindenhez, amit eléd vet az élet
+32. A jóslat jellege
+33. Mindennapi etikai szabályok
+34. Az élvezetek jellege
+35. A helyes cselekvésről
+36. Udvarias viselkedés vendégségben
+37. Képességeidnek megfelelően vállalj el dolgokat
+38. Figyelj arra, miről hogyan gondolkodsz
+39. Mértéktartás az anyagiakban is
+40. Egy férfinak érdemes szerény és visszafogott nővel ismerkedni
+41. A külső dolgok helyett fontosabb a belsővel foglalkozni
+42. Az emberek nem alapvetően rosszak, csak épp úgy sikerült nekik tenni 
+43. A hozzáállásod alakítja a cselekvésed
+44. Egymásra licitálás
+45. Ne ítélkezz, hanem fogalmazz objektíven
+46. Ne mesélj az értékrendedről, hanem cselekedj annak megfelelően
+47. Ne beszélj a fegyelmezett életmódodról, ez magadnak van
+48. A bölcs ember senkit sem hibáztat
+49. A természet követése a feladatunk
+50. Kövesd a tanításokat
+51. Halogatás helyett cselekedj
+52. Az etika a legfontosabb filozófiai terület, vagyis az életmód
+53. Idézetek a nehéz szituációkhoz
 
 ----------
 
@@ -217,79 +239,79 @@ Ha valamilyen élvezetnek a képzete megragadott, akkor vigyáznod kell, mint a 
 
 Ha belátod, hogy valamit meg kell tenned, tedd meg és ne kerüld azt, hogy cselekvés közben lássanak, még akkor sem, ha a tömeg egészen más véleményt alkot majd az ügyről. Ha ugyanis nem helyesen cselekednél, akkor magát a tettet kerüld el; de ha helyesen teszel, akkor mit félsz az igazságtalan támadásoktól?
 
-## XXXVI. Udvarias viselkedés vendégségben
+## 36. Udvarias viselkedés vendégségben
 
 Ha tehát valakinél étkezel, ne felejtsd el, hogy nemcsak azt kell nézned, milyen értéke van az előtted levő ételnek a testre, hanem azt is, hogy a vendéglátóval szemben megőrizd az illendőséget.
 
-## XXXVII. Képességeidnek megfelelően vállalj el dolgokat
+## 37. Képességeidnek megfelelően vállalj el dolgokat
 
 Ha olyan szerepet vállalsz, amely az erődet túlhaladja, akkor egyrészt ebben is kudarcot vallasz, másrészt pedig azt is elszalasztod, amelyet képes lettél volna betölteni.
 
-## XXXVIII. Figyelj arra, miről hogyan gondolkodsz
+## 38. Figyelj arra, miről hogyan gondolkodsz
 
 Ahogy séta közben vigyázol arra, hogy ne lépj szögbe, vagy hogy ki ne ficamodjék a lábad, ugyanígy ügyelj arra, hogy ne tégy kárt önmagad irányító szellemében. Ha minden ügyben tekintettel leszünk erre, akkor biztosabban foghatunk a munkánkhoz.
 
-## XXXIX. Mértéktartás az anyagiakban is
+## 39. Mértéktartás az anyagiakban is
 
 A vagyonszerzés mértéke mindenkinek a saját testének a szükségletei, úgy ahogy a cipő mértéke a láb. Ha megmaradsz e mellett, akkor megtartod a helyes mértéket; de ha túllépsz rajta, akkor szükségszerűen lecsúszol a lejtőn.
 
-## XL. Egy férfinak érdemes szerény és visszafogott nővel ismerkedni
+## 40. Egy férfinak érdemes szerény és visszafogott nővel ismerkedni
 
 A nőket a férfiak 14 éves koruktól kezdve úrnőnek szólítják. Látják mármost, hogy semmi más lehetőségük nincs, csak az, hogy feleségül mehetnek a férfiakhoz, elkezdik tehát magukat csinosítgatni és minden reményüket abba vetik. Érdemes tehát megértetni velük, hogy semmi másért nem becsüljük meg őket, hanem csak azért, ha szerényeknek és szemérmeseknek mutatkoznak.
 
-## XLI. A külső dolgok helyett fontosabb a belsővel foglalkozni
+## 41. A külső dolgok helyett fontosabb a belsővel foglalkozni
 
 Az együgyűség jele állandóan a testtel foglalkozni; mindig tornázni, sokat enni, sokat inni, sokat menni félre, szeretkezni. Ezeket mellékesnek kell tartanunk, minden gondunkat a szellemünkre kell fordítanunk.
 
-## XLII. Az emberek nem alapvetően rosszak, csak épp úgy sikerült nekik tenni 
+## 42. Az emberek nem alapvetően rosszak, csak épp úgy sikerült nekik tenni 
 
 Ha valaki rosszul bánik veled, vagy rosszat mond rólad, emlékezz erre: abban a hiszemben teszi vagy mondja, hogy alapja van rá. Ő csak aszerint cselekedhet, ahogy neki, - nem pedig neked, - helyesnek látszik; ha pedig hamis a véleménye, az neki árt, mert tévúton halad. Bármit mond, jegyezd meg: "Neki úgy tűnt igaznak."
 
-## XLIII. A hozzáállásod alakítja a cselekvésed
+## 43. A hozzáállásod alakítja a cselekvésed
 
 Minden dolgot két oldalon lehet megfogni: az egyik oldalon lehet vinni, a másik oldalon nem. Ha a testvéred igazságtalan hozzád, ne arról az oldalról fogd meg a dolgot, hogy igazságtalan; mert ezzel a megfogással nem lehet a dolgot "hordani". Inkább arról az oldaláról fogd meg, hogy a testvéred, és veled együtt nevelkedett; így az elviselhető részén nyúlsz a dologhoz.
 
-## XLIV. Egymásra licitálás
+## 44. Egymásra licitálás
 
 Belső ellentmondás van az ilyen kijelentésekben: "Én nálad gazdagabb, tehát kiválóbb vagyok", vagy pedig: "Szebben tudok szónokolni, tehát kiválóbb vagyok nálad". Helyesebbek az ilyen mondások: "Gazdagabb vagyok, tehát vagyonom értékesebb, mint a tied", vagy pedig: "Jobban szónokolok nálad, tehát szónoklatom jobb, mint a tied". Te azonban nem vagy sem vagyon, sem szónoklat.
 
-## XLV. Ne ítélkezz, hanem fogalmazz objektíven
+## 45. Ne ítélkezz, hanem fogalmazz objektíven
 
 Gyorsan mosakszik valaki? Ne mondd rá, hogy rosszul, hanem csak azt, hogy gyorsan.
 
-## XLVI. Ne mesélj az értékrendedről, hanem cselekedj annak megfelelően
+## 46. Ne mesélj az értékrendedről, hanem cselekedj annak megfelelően
 
 Sohase mondd magadról, hogy filozófus vagy, és közönséges emberek közt ne fecsegj sokat az elveidről. Inkább cselekedj az elveid szerint. A lakománál például ne magyarázd, hogyan kell enni, hanem egyél úgy, ahogy kell.
 
-## XLVII. Ne beszélj a fegyelmezett életmódodról, ez magadnak van
+## 47. Ne beszélj a fegyelmezett életmódodról, ez magadnak van
 
 Ha egyszerűségre szoktattad a tested, ne hencegj vele, s ha vizet iszol, ne mondd el minden alkalommal, hogy te csak vizet iszol.
 
-## XLVIII. A bölcs ember senkit sem hibáztat
+## 48. A bölcs ember senkit sem hibáztat
 
 A mindennapi ember álláspontja és jellemző vonása az, hogy sohasem önmagából vár hasznot vagy kárt, hanem a külső dolgoktól. A filozófus magatartása és jellegzetessége viszont az, hogy minden hasznot vagy kárt önmagából vár.
 
 A bölcsességben előrehaladó embert jellemzi, hogy senkit sem ócsárol, senkit sem dicsér, nem vádaskodik és nem panaszkodik, sohasem beszél úgy magáról, mint aki számít és tud valamit; ha nehézségekbe és akadályokba ütközik, önmagát okolja. Ha dicsérik, önmagában kineveti azt, aki dicséri, s ha ócsárolják, nem védekezik. Óvatosan járkál, mint a beteg, mert óvakodik attól, hogy a meggyógyult tagokat megmozdítsa, mielőtt megerősödnek.
 
-## IL. A természet követése a feladatunk
+## 49. A természet követése a feladatunk
 
 De mire törekszem én? Arra, hogy megismerjem és kövessem a természetet. Keresem tehát, hogy ki tanít meg erre; ha hallom, hogy Khrüszipposz, akkor hozzá fordulok.
 
-## L. Kövesd a tanításokat
+## 50. Kövesd a tanításokat
 
 Ami a tanítás, ahhoz úgy ragaszkodj, mint a törvényekhez, mintha az istenek ellen vétenél, ha megszeged. Arra viszont, amit esetleg rólad mondanak, ne adj semmit; az már nem tartozik rád.
 
-## LI. Halogatás helyett cselekedj
+## 51. Halogatás helyett cselekedj
 
 Mennyi ideig halogatod még azt, hogy a legigazibb javakra méltónak tekintsd magad, és semmilyen tettedben ne lépd át az ész útmutatásait?
 
 Tartsd végre méltónak magad arra, hogy úgy élj, mint érett ember, aki bölcsességre törekszik!
 
-## LII. Az etika a legfontosabb filozófiai terület, vagyis az életmód
+## 52. Az etika a legfontosabb filozófiai terület, vagyis az életmód
 
 A filozófia első és legfontosabb része az, amely tanítások gyakorlati alkalmazásáról szól; például az, hogy nem szabad hazudni. A filozófia második része a bizonyításokat tartalmazza: miért nem szabad hazudni? A harmadik rész az előzőeknek alapvetésül és megvilágosításul szolgál. A legfontosabb azonban, amivel mindig foglalkoznunk kell, az első rész.
 
-## LIII. Idézetek a nehéz szituációkhoz
+## 53. Idézetek a nehéz szituációkhoz
 
 Minden eshetőségre kéznél legyenek a következők:
 
