@@ -11,6 +11,8 @@ Szerkesztette: Burucs Ádám, 2018
 
 Epiktétosz ókori görög Sztoikus filozófus volt. Filozófiájának középpontjában az etika állt. Az etikája szerint a filozófiát a gyakorlatban kell művelni, ami az életmódot jelenti. Minden gondolatunkat és cselekedetünket érdemes enek megfelelően irányítani. A legfontosabb kérdés, hogy van-e a dolgok felett irányításunk. Akár van, akár nincs, érdemes nyugodtnak maradni és erényesen viselkedni. A 4 fő erény: bölcsesség, bátorság, mértéktartás és igazság.
 
+----------
+
 1. Mi felett van irányításunk az életben?
 2. Az irányítás eldöntése vezet minket az életben
 3. Gondold át mivel vagy kivel van dolgod egy szituációban
