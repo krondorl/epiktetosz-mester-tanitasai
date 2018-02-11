@@ -13,59 +13,59 @@ Epiktétosz ókori görög Sztoikus filozófus volt. Filozófiájának középpo
 
 ## Tartalomjegyzék
 
-1. Mi felett van irányításunk az életben?
-2. Az irányítás eldöntése vezet minket az életben
-3. Gondold át mivel vagy kivel van dolgod egy szituációban
-4. Minden cselekvés előtt gondold át mivel szokott járni
-5. Minden csak vélemény
-6. A büszkeségről
-7. Az élet szabja meg, hogy éppen hogy kell cselekednünk
-8. Alkalmazkodj a szituációkhoz
-9. A betegségről
-10. Mindenféle szituációban gyakorolhatjuk a kiválóságot
-11. Ha a sors ad valamit, azt el is veheti
-12. Fokozatosan gyakorolj mindenféle szituációban
-13. Az átlagember a külső dolgokra koncentrál, a bölcs a belsőkre
-14. A külső dolgok felett nincs irányításunk
-15. Légy türelmes és tartsd a mértéket
-16. Empatizálj másokkal, de kontrolláld azt belülről
-17. Az élet a nagy rendező
-18. A babona csak külső dolgokra hat
-19. Milyen versenyben érdemes részt venned?
-20. A sértések jellege
-21. Memento mori: emlékezz, hogy meg fogsz halni egy nap
-22. Életed legyen példa mások számára
-23. Magad miatt akarj kiváló lenni elsősorban (de ezzel jobbá teheted a világot is)
-24. A kapcsolatépítés jellege és a kiválóság szerepe
-25. Ha nem építesz kapcsolatokat, ne várd az eredményét a semmiért cserébe
-26. Várd nyugalommal a váratlant is
-27. A hibás és rossz cselekvések jellege
-28. Őrizd meg nyugalmad minden szituációban
-29. Mindent vizsgálj meg mielőtt belekezdenél
-30. Az emberi viszonyok és kötelezettségek
-31. Örömmel alkalmazkodj mindenhez, amit eléd vet az élet
-32. A jóslat jellege
-33. Mindennapi etikai szabályok
-34. Az élvezetek jellege
-35. A helyes cselekvésről
-36. Udvarias viselkedés vendégségben
-37. Képességeidnek megfelelően vállalj el dolgokat
-38. Figyelj arra, miről hogyan gondolkodsz
-39. Mértéktartás az anyagiakban is
-40. Egy férfinak érdemes szerény és visszafogott nővel ismerkedni
-41. A külső dolgok helyett fontosabb a belsővel foglalkozni
-42. Az emberek nem alapvetően rosszak, csak épp úgy sikerült nekik tenni 
-43. A hozzáállásod alakítja a cselekvésed
-44. Egymásra licitálás
-45. Ne ítélkezz, hanem fogalmazz objektíven
-46. Ne mesélj az értékrendedről, hanem cselekedj annak megfelelően
-47. Ne beszélj a fegyelmezett életmódodról, ez magadnak van
-48. A bölcs ember senkit sem hibáztat
-49. A természet követése a feladatunk
-50. Kövesd a tanításokat
-51. Halogatás helyett cselekedj
-52. Az etika a legfontosabb filozófiai terület, vagyis az életmód
-53. Idézetek a nehéz szituációkhoz
+1. <a href="#1">Mi felett van irányításunk az életben?</a>
+2. <a href="#2">Az irányítás eldöntése vezet minket az életben</a>
+3. <a href="#3">Gondold át mivel vagy kivel van dolgod egy szituációban</a>
+4. <a href="#4">Minden cselekvés előtt gondold át mivel szokott járni</a>
+5. <a href="#5">Minden csak vélemény</a>
+6. <a href="#6">A büszkeségről</a>
+7. <a href="#7">Az élet szabja meg, hogy éppen hogy kell cselekednünk</a>
+8. <a href="#8">Alkalmazkodj a szituációkhoz</a>
+9. <a href="#9">A betegségről</a>
+10. <a href="#10">Mindenféle szituációban gyakorolhatjuk a kiválóságot</a>
+11. <a href="#11">Ha a sors ad valamit, azt el is veheti</a>
+12. <a href="#12">Fokozatosan gyakorolj mindenféle szituációban</a>
+13. <a href="#13">Az átlagember a külső dolgokra koncentrál, a bölcs a belsőkre</a>
+14. <a href="#14">A külső dolgok felett nincs irányításunk</a>
+15. <a href="#15">Légy türelmes és tartsd a mértéket</a>
+16. <a href="#16">Empatizálj másokkal, de kontrolláld azt belülről</a>
+17. <a href="#17">Az élet a nagy rendező</a>
+18. <a href="#18">A babona csak külső dolgokra hat</a>
+19. <a href="#19">Milyen versenyben érdemes részt venned?</a>
+20. <a href="#20">A sértések jellege</a>
+21. <a href="#21">Memento mori: emlékezz, hogy meg fogsz halni egy nap</a>
+22. <a href="#22">Életed legyen példa mások számára</a>
+23. <a href="#23">Magad miatt akarj kiváló lenni elsősorban (de ezzel jobbá teheted a világot is)</a>
+24. <a href="#24">A kapcsolatépítés jellege és a kiválóság szerepe</a>
+25. <a href="#25">Ha nem építesz kapcsolatokat, ne várd az eredményét a semmiért cserébe</a>
+26. <a href="#26">Várd nyugalommal a váratlant is</a>
+27. <a href="#27">A hibás és rossz cselekvések jellege</a>
+28. <a href="#28">Őrizd meg nyugalmad minden szituációban</a>
+29. <a href="#29">Mindent vizsgálj meg mielőtt belekezdenél</a>
+30. <a href="#30">Az emberi viszonyok és kötelezettségek</a>
+31. <a href="#31">Örömmel alkalmazkodj mindenhez, amit eléd vet az élet</a>
+32. <a href="#32">A jóslat jellege</a>
+33. <a href="#33">Mindennapi etikai szabályok</a>
+34. <a href="#34">Az élvezetek jellege</a>
+35. <a href="#35">A helyes cselekvésről</a>
+36. <a href="#36">Udvarias viselkedés vendégségben</a>
+37. <a href="#37">Képességeidnek megfelelően vállalj el dolgokat</a>
+38. <a href="#38">Figyelj arra, miről hogyan gondolkodsz</a>
+39. <a href="#39">Mértéktartás az anyagiakban is</a>
+40. <a href="#40">Egy férfinak érdemes szerény és visszafogott nővel ismerkedni</a>
+41. <a href="#41">A külső dolgok helyett fontosabb a belsővel foglalkozni</a>
+42. <a href="#42">Az emberek nem alapvetően rosszak, csak épp úgy sikerült nekik tenni</a> 
+43. <a href="#43">A hozzáállásod alakítja a cselekvésed</a>
+44. <a href="#44">Egymásra licitálás</a>
+45. <a href="#45">Ne ítélkezz, hanem fogalmazz objektíven</a>
+46. <a href="#46">Ne mesélj az értékrendedről, hanem cselekedj annak megfelelően</a>
+47. <a href="#47">Ne beszélj a fegyelmezett életmódodról, ez magadnak van</a>
+48. <a href="#48">A bölcs ember senkit sem hibáztat</a>
+49. <a href="#49">A természet követése a feladatunk</a>
+50. <a href="#50">Kövesd a tanításokat</a>
+51. <a href="#51">Halogatás helyett cselekedj</a>
+52. <a href="#52">Az etika a legfontosabb filozófiai terület, vagyis az életmód</a>
+53. <a href="#53">Idézetek a nehéz szituációkhoz</a>
 
 ----------
 
