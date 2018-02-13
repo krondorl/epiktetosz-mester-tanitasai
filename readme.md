@@ -11,6 +11,10 @@ Szerkesztette: Burucs Ádám, 2018
 
 Epiktétosz ókori görög Sztoikus filozófus volt. Filozófiájának középpontjában az etika állt. Az etikája szerint a filozófiát a gyakorlatban kell művelni, ami az életmódot jelenti. Minden gondolatunkat és cselekedetünket érdemes ennek megfelelően irányítani. A legfontosabb kérdés, hogy van-e a dolgok felett irányításunk. Akár van, akár nincs, érdemes nyugodtnak maradni és erényesen viselkedni. A 4 fő erény: bölcsesség, bátorság, mértéktartás és igazság.
 
+Bővebb leírás a Wikipédián:  
+[Epiktétosz](https://hu.wikipedia.org/wiki/Epikt%C3%A9tosz)   
+[Sztoicizmus](https://hu.wikipedia.org/wiki/Sztoikus_filoz%C3%B3fia) 
+
 ## Tartalomjegyzék
 
 1. <a href="#1">Mi felett van irányításunk az életben?</a>
@@ -30,7 +34,7 @@ Epiktétosz ókori görög Sztoikus filozófus volt. Filozófiájának középpo
 15. <a href="#15">Légy türelmes és tartsd a mértéket</a>
 16. <a href="#16">Empatizálj másokkal, de kontrolláld azt belülről</a>
 17. <a href="#17">Az élet a nagy rendező</a>
-18. <a href="#18">A babona csak külső dolgokra hat</a>
+18. <a href="#18">A babona általában csak külső dolgokra hat</a>
 19. <a href="#19">Milyen versenyben érdemes részt venned?</a>
 20. <a href="#20">A sértések jellege</a>
 21. <a href="#21">Memento mori: emlékezz, hogy meg fogsz halni egy nap</a>
@@ -139,7 +143,7 @@ Ha látod, hogy valaki jajgat gyászában, [...] ne vonakodj szavaiddal hozzá a
 
 Emlékezz arra, hogy színész vagy egy olyan drámában, amilyet a betanítója akar: ha rövidre szabja a szereped, rövid ideig, ha hosszúra, sokáig játszol. Ha a koldus szerepét osztja rád, azt is a természethez hűen alakítsd.
 
-## 18. <a id="18"></a>A babona csak külső dolgokra hat
+## 18. <a id="18"></a>A babona általában csak külső dolgokra hat
 
 Ha a holló nem jót károg, ne ragadjon el a képzet, hanem nyomban tégy megkülönböztetést magadban és jegyezd meg: "[...] Nekem minden csak jót jelenthet, ha én úgy akarom: bármi is történik, tőlem függ, hogy javamra fordítom-e."
 
@@ -223,7 +227,7 @@ Ne járj túl sokat színházba. Ha alkalomadtán mégis ott vagy, akkor úgy t�
 
 Ötletszerűen és egykönnyen ne járj előadásokra. Ha mégis ott vagy, viselkedj komolyan, nyugodtan és ne légy terhére senkinek.
 
-Amikor beszélgetni készülsz valakivel, különösen olyan emberrel, akit fölötted állónak tartanak, képzeld el, hogyan viselkedett volna hasonló körülmények között Sókratés vagy Zénón; így nem hibázod el a helyzethez illő viselkedést.
+Amikor beszélgetni készülsz valakivel, különösen olyan emberrel, akit fölötted állónak tartanak, képzeld el, hogyan viselkedett volna hasonló körülmények között Szókratész vagy Zénón; így nem hibázod el a helyzethez illő viselkedést.
 
 Ha a hatalmasok közül mégy valakihez, képzeld el, hogy nem fogod otthon találni, hogy csukva lesz a kapu, hogy az orrod előtt becsapják az ajtót, vagy hogy nem fog veled törődni. Ha ezek ellenére is kötelességednek érzed, hogy meglátogasd, eredj el hozzá és viseld el, bármi történik, de semmiképpen se hajtogasd utána magadban, hogy nem volt érdemes. Ez közönséges emberre vallana és azt jelentené, hogy függsz a külső eseményektől.
 
